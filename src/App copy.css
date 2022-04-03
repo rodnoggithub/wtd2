@@ -9,12 +9,6 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-}
-
-.cabec{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   padding-top: 2rem;
 }
 
@@ -22,15 +16,13 @@
   font-family: 'Permanent Marker', cursive;
   color: #bdbdbd;
   font-size: 20px;
-  margin-block-start: 0em;
-  margin-block-end: 0em;
-  padding-left: .2rem;
 }
 
 .App-header-h1{
   font-family: 'Permanent Marker', cursive;
   color: #bdbdbd;
-  font-size: 80px;
+  font-size: 60px;
+  padding-top: 2rem;
 }
 
 input{
@@ -71,14 +63,6 @@ span{
 }
 
 h3{
-  padding-top: 1rem;
   color: #bdbdbd;
   font-family: 'Inconsolata', monospace;
-}
-
-@media only screen and (max-width: 360px) {
-  .App-header-h1{
-    font-size: 50px;
-  
-  }
 }

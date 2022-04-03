@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wtd2/static/css/main.66784fcb.css",
+    "main.js": "/wtd2/static/js/main.fc7fd164.js",
+    "static/js/787.44e2b916.chunk.js": "/wtd2/static/js/787.44e2b916.chunk.js",
+    "static/media/wmapo1.png": "/wtd2/static/media/wmapo1.fd51fed35d27f6b8e1e8.png",
+    "index.html": "/wtd2/index.html",
+    "main.66784fcb.css.map": "/wtd2/static/css/main.66784fcb.css.map",
+    "main.fc7fd164.js.map": "/wtd2/static/js/main.fc7fd164.js.map",
+    "787.44e2b916.chunk.js.map": "/wtd2/static/js/787.44e2b916.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66784fcb.css",
+    "static/js/main.fc7fd164.js"
+  ]
+}
